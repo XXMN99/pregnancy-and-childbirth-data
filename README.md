@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1bb163c6-bc0d-4cd4-8ca6-34d10fadfe61)# Pregnancy-and-Childbirth-dataset
+# Pregnancy-and-Childbirth-dataset
 
 ## PC-dataset(14060)
 The dataset consisted of women who had single live births between 2020 and 2022 and did not have pregestational diabetes(n=14,060).
